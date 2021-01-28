@@ -1,0 +1,70 @@
+INFO 2021-01-24 07:29:08,900 autoreload Watching for file changes with StatReloader
+INFO 2021-01-24 07:29:13,164 basehttp "GET /hello/?msg=hhh HTTP/1.1" 200 3520
+INFO 2021-01-24 07:29:20,535 basehttp "GET /hello/?msg=kk HTTP/1.1" 200 3520
+INFO 2021-01-24 07:38:52,604 autoreload Watching for file changes with StatReloader
+INFO 2021-01-24 07:39:03,029 basehttp "GET /hello/?msg=kk HTTP/1.1" 200 3520
+INFO 2021-01-24 07:39:19,164 basehttp "GET /hello/?msg=gd+morning HTTP/1.1" 200 3520
+INFO 2021-01-24 07:43:13,672 autoreload Watching for file changes with StatReloader
+INFO 2021-01-24 07:43:58,229 autoreload Watching for file changes with StatReloader
+INFO 2021-01-24 07:44:03,788 basehttp "GET /hello/?msg=gd+morning HTTP/1.1" 200 3520
+INFO 2021-01-24 07:45:01,849 basehttp "GET /hello/?msg=holiday HTTP/1.1" 200 3520
+INFO 2021-01-25 10:14:12,074 autoreload Watching for file changes with StatReloader
+WARNING 2021-01-25 10:14:17,930 log Not Found: /
+WARNING 2021-01-25 10:14:17,932 basehttp "GET / HTTP/1.1" 404 2086
+INFO 2021-01-25 10:14:25,132 basehttp "GET /hello/ HTTP/1.1" 200 3520
+INFO 2021-01-25 10:14:48,968 basehttp "GET /hello/?msg=hi+siva HTTP/1.1" 200 3520
+WARNING 2021-01-25 10:27:59,900 log Not Found: /auth/register/
+WARNING 2021-01-25 10:27:59,912 basehttp "POST /auth/register/ HTTP/1.1" 404 2147
+WARNING 2021-01-25 10:28:35,812 log Not Found: /
+WARNING 2021-01-25 10:28:35,813 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:28:40,400 log Not Found: /
+WARNING 2021-01-25 10:28:40,401 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:28:59,955 log Not Found: /
+WARNING 2021-01-25 10:28:59,955 basehttp "GET / HTTP/1.1" 404 2086
+INFO 2021-01-25 10:29:22,284 basehttp "GET /admin HTTP/1.1" 301 0
+INFO 2021-01-25 10:29:23,310 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-01-25 10:29:24,907 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2194
+WARNING 2021-01-25 10:29:25,421 log Not Found: /
+WARNING 2021-01-25 10:29:25,423 basehttp "GET / HTTP/1.1" 404 2086
+INFO 2021-01-25 10:29:29,355 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 1185
+WARNING 2021-01-25 10:30:00,476 log Not Found: /
+WARNING 2021-01-25 10:30:00,477 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:30:32,932 log Not Found: /
+WARNING 2021-01-25 10:30:32,933 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:30:34,013 log Not Found: /
+WARNING 2021-01-25 10:30:34,014 basehttp "GET / HTTP/1.1" 404 2086
+INFO 2021-01-25 10:30:39,727 basehttp "GET /hello/ HTTP/1.1" 200 3520
+INFO 2021-01-25 10:32:09,033 basehttp "GET /hello/?msg=hm%2C HTTP/1.1" 200 3520
+INFO 2021-01-25 10:32:41,010 autoreload Watching for file changes with StatReloader
+WARNING 2021-01-25 10:33:04,017 log Not Found: /
+WARNING 2021-01-25 10:33:04,017 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:33:41,861 log Not Found: /auth
+WARNING 2021-01-25 10:33:41,862 basehttp "GET /auth HTTP/1.1" 404 2116
+WARNING 2021-01-25 10:33:47,635 log Not Found: /auth
+WARNING 2021-01-25 10:33:47,635 basehttp "GET /auth HTTP/1.1" 404 2116
+WARNING 2021-01-25 10:33:52,005 log Not Found: /auth
+WARNING 2021-01-25 10:33:52,006 basehttp "GET /auth HTTP/1.1" 404 2116
+WARNING 2021-01-25 10:34:19,606 log Not Found: /
+WARNING 2021-01-25 10:34:19,607 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:34:48,093 log Not Found: /
+WARNING 2021-01-25 10:34:48,095 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:34:49,447 log Not Found: /
+WARNING 2021-01-25 10:34:49,449 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:34:50,344 log Not Found: /
+WARNING 2021-01-25 10:34:50,345 basehttp "GET / HTTP/1.1" 404 2086
+WARNING 2021-01-25 10:34:51,349 log Not Found: /
+WARNING 2021-01-25 10:34:51,350 basehttp "GET / HTTP/1.1" 404 2086
+INFO 2021-01-25 11:26:17,311 autoreload Watching for file changes with StatReloader
+WARNING 2021-01-25 11:27:14,638 log Not Found: /
+WARNING 2021-01-25 11:27:14,650 basehttp "GET / HTTP/1.1" 404 2086
+INFO 2021-01-25 11:27:58,573 autoreload C:\Users\admin\Desktop\CHAT\chatapp\views.py changed, reloading.
+INFO 2021-01-25 11:28:13,125 autoreload Watching for file changes with StatReloader
+INFO 2021-01-25 11:29:18,624 autoreload C:\Users\admin\Desktop\CHAT\chatapp\views.py changed, reloading.
+INFO 2021-01-25 11:29:44,669 autoreload Watching for file changes with StatReloader
+INFO 2021-01-25 11:30:18,495 basehttp "GET /hello/ HTTP/1.1" 200 3520
+INFO 2021-01-25 11:48:05,781 autoreload C:\Users\admin\Desktop\CHAT\chatapp\views.py changed, reloading.
+INFO 2021-01-25 11:48:15,408 autoreload Watching for file changes with StatReloader
+INFO 2021-01-25 12:46:00,900 autoreload Watching for file changes with StatReloader
+INFO 2021-01-25 12:46:26,374 basehttp "GET /hello/?msg=hi+bro HTTP/1.1" 200 3520
+WARNING 2021-01-25 13:17:41,170 log Not Found: /show
+WARNING 2021-01-25 13:17:41,172 basehttp "GET /show HTTP/1.1" 404 2116
